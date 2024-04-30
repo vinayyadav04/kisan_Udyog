@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757743295860",
+    "project_id": "kisan-udyog-fd4a7",
+    "firebase_url": "https://kisan-udyog-fd4a7-default-rtdb.firebaseio.com/",
+    "storage_bucket": "kisan-udyog-fd4a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757743295860:android:8d73d76bd5ee03df142021",
+        "android_client_info": {
+          "package_name": "com.example.kisan_udyog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757743295860-4kqf1efv22vgiq9e237thbtllonu61ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisan_udyog",
+            "certificate_hash": "a9da9bba3a0811fd871857928a71fff3a63773fc"
+          }
+        },
+        {
+          "client_id": "757743295860-5b2vcuie342v9eheell1frp3qb38an2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeieP5esIuQ-rogBNxtKMhZ9n1Gcy6XWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757743295860-5b2vcuie342v9eheell1frp3qb38an2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

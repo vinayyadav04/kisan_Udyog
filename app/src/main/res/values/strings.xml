@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kisan Udyog</string>
+    <string name="home">HOME</string>
+    <string name="Wheat">Wheat</string>
+    <string name="dbname_user">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+    <string name="field_username">username</string>
+    <string name="role">role</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
